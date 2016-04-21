@@ -1,0 +1,6 @@
+E:\Vladislav\Telerik\exam1\exam1\bin\Debug\exam1.exe.config
+E:\Vladislav\Telerik\exam1\exam1\bin\Debug\exam1.exe
+E:\Vladislav\Telerik\exam1\exam1\bin\Debug\exam1.pdb
+E:\Vladislav\Telerik\exam1\exam1\obj\Debug\exam1.csprojResolveAssemblyReference.cache
+E:\Vladislav\Telerik\exam1\exam1\obj\Debug\exam1.exe
+E:\Vladislav\Telerik\exam1\exam1\obj\Debug\exam1.pdb

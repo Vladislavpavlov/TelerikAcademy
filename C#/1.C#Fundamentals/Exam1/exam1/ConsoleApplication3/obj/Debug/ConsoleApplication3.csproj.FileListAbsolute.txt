@@ -1,0 +1,6 @@
+E:\Vladislav\Telerik\exam1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Vladislav\Telerik\exam1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\Vladislav\Telerik\exam1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\Vladislav\Telerik\exam1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\Vladislav\Telerik\exam1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Vladislav\Telerik\exam1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
